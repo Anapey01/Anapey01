@@ -1,85 +1,18 @@
-<h1 align="center">Hi 👋, I'm Kofi</h1>
+𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 
+Hi.gif
+Welcome!
 
-<p align="center">
-Software Developer • Learning Systems • Building Projects
-</p>
+You have finally discovered my Github profile.
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
+Ask me anything here
+or email me.
 
----
+Happy Coding! 😊
 
-<!-- PLAY BUTTON -->
-<p align="center">
-  <a href="#welcome">
-    <img src="https://img.shields.io/badge/▶%20PLAY-ENTER%20PROFILE-green?style=for-the-badge" />
-  </a>
-</p>
+ABSphreak's Github Stats
 
-<p align="center">
-Click play to enter the page
-</p>
+Random dev joke for you! (create your own by clicking here ↓)
+README Jokes
+Follow me around the web:
 
----
-
-<!-- INTRO STATE (what looks like "before entry") -->
-<p align="center">
-Welcome screen is locked 🔒
-</p>
-
----
-
-<!-- REVEALED SECTION -->
-<h2 id="welcome" align="center">Welcome to my page ❤️</h2>
-
-<p align="center">
-You’ve entered my GitHub space.
-I build, learn, and document my journey in software development.
-</p>
-
----
-
-## 🧠 About Me
-- Learning software development  
-- Interested in systems and backend engineering  
-- Building projects to improve skills  
-
----
-
-## ⚙️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" />
-  <img src="https://img.shields.io/badge/Git-black?logo=git" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Current Focus
-- Data Structures & Algorithms  
-- Backend Development  
-- System Design Basics  
-- Open Source Contribution  
-
----
-
-## 📂 Projects
-- Portfolio Website  
-- Practice Projects  
-- Learning Experiments  
-
----
-
-## 🤝 Connect
-<p align="center">
-GitHub: https://github.com/YOUR_USERNAME
-</p>
+LinkedIn Instagram Twitter Spotify DEV.to
