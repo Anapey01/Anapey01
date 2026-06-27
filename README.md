@@ -9,24 +9,37 @@ Software Developer • Learning Systems • Building Projects
 <!-- PLAY BUTTON -->
 <p align="center">
   <a href="#welcome">
-    <img src="https://img.shields.io/badge/▶%20Play-Enter%20My%20Profile-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/▶%20PLAY-ENTER%20PROFILE-green?style=for-the-badge" />
   </a>
+</p>
+
+<p align="center">
+Click play to enter the page
 </p>
 
 ---
 
-<h2 id="welcome" align="center">Welcome to my GitHub page 👋</h2>
+<!-- INTRO STATE (what looks like "before entry") -->
+<p align="center">
+Welcome screen is locked 🔒
+</p>
+
+---
+
+<!-- REVEALED SECTION -->
+<h2 id="welcome" align="center">Welcome to my page ❤️</h2>
 
 <p align="center">
-This is where I build, learn, and document my journey in software development.
+You’ve entered my GitHub space.
+I build, learn, and document my journey in software development.
 </p>
 
 ---
 
 ## 🧠 About Me
-- Learning software development
-- Interested in systems and backend engineering
-- Building projects to improve skills
+- Learning software development  
+- Interested in systems and backend engineering  
+- Building projects to improve skills  
 
 ---
 
