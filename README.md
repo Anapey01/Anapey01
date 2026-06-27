@@ -1,18 +1,39 @@
-𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 
-Hi.gif
-Welcome!
+<!-- HERO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:111827&height=200&section=header&text=Gabriel%20Anapey&fontSize=38&fontColor=ffffff" />
+</p>
 
-You have finally discovered my Github profile.
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
-Ask me anything here
-or email me.
+<!-- TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Developer;Python+%7C+TypeScript+%7C+SQL;Systems+and+Backend+Focus;Building+and+Learning+in+Public" />
+</p>
 
-Happy Coding! 😊
+---
 
-ABSphreak's Github Stats
+<!-- CORE STAT BLOCK (NO LABELS) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anapey01&show_icons=true&theme=transparent&hide_border=true" />
+</p>
 
-Random dev joke for you! (create your own by clicking here ↓)
-README Jokes
-Follow me around the web:
+---
 
-LinkedIn Instagram Twitter Spotify DEV.to
+<!-- LANGUAGES ONLY (NO HEADINGS) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anapey01&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+<!-- TECH STACK VISUAL ONLY -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0f172a&height=120&section=footer" />
+</p>
