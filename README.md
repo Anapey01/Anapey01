@@ -88,7 +88,7 @@ Payment infrastructure for Mobile Money merchants — SMS reconciliation and fra
 ```yaml
 shipping:
   - londonsimports.com   →  Hubtel payment integration
-  - craftivehivegh.com   →  launched ✓
+  - crafthivegh.com   →  launched ✓
   - PaymentOps           →  fraud verification engine
 
 exploring:
