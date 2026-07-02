@@ -43,7 +43,7 @@ Freight & import platform connecting Ghana to Guangzhou — procurement, logisti
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ [CraftHive](https://craftivehivegh.com)
+### 🖼️ [CraftHive](https://crafthivegh.com)
 `LIVE`
 
 A digital gallery for custom framing & art preservation — built to feel like a physical workshop, not a store.
