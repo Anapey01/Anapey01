@@ -7,10 +7,11 @@
 </p>
 
 <p align="center">
+  <a href="https://raredevs.tech"><img src="https://img.shields.io/badge/Founder_@_Rare_Devs-0f172a?style=flat-square" /></a>
   <img src="https://img.shields.io/badge/Backend_Engineer-0f172a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Founder-0f172a?style=flat-square" />
   <img src="https://img.shields.io/badge/Accra,_Ghana-0f172a?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Open_to_Collaborate-22c55e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_to_Backend_Internships-22c55e?style=flat-square" />
 </p>
 
 ---
@@ -22,7 +23,8 @@ $ cat about.txt
   Goods that should take days, take weeks.
   Payments that should be instant, need phone calls.
 
-  I build systems that fix that.
+  I build systems that fix that — through Rare Devs, the studio
+  behind everything below.
 ```
 
 ---
@@ -55,12 +57,12 @@ A digital gallery for custom framing & art preservation — built to feel like a
 <tr>
 <td width="50%" valign="top">
 
-### 💳 PaymentOps
-`BUILDING`
+### 🎓 [Freemma Academy SMS](https://freemmaacademygh.com)
+`LIVE`
 
-Payment infrastructure for Mobile Money merchants — SMS reconciliation and fraud verification, built for how MoMo actually works.
+SMS-based communication platform for Freemma Academy.
 
-`Django` `PostgreSQL`
+`Django` `PostgreSQL` `SMS Gateway`
 
 </td>
 <td width="50%" valign="top">
@@ -72,6 +74,10 @@ Payment infrastructure for Mobile Money merchants — SMS reconciliation and fra
 </td>
 </tr>
 </table>
+
+<p align="center">
+<sub><em>All of the above ship under <a href="https://raredevs.tech">Rare Devs</a>.</em></sub>
+</p>
 
 ---
 
@@ -86,16 +92,17 @@ Payment infrastructure for Mobile Money merchants — SMS reconciliation and fra
 ## now
 
 ```yaml
+now
+
 shipping:
-  - londonsimports.com   →  Hubtel payment integration
-  - crafthivegh.com   →  launched ✓
-  - PaymentOps           →  fraud verification engine
+  - londonsimports.com     →  Google Play Store app (beta tested)
+  - crafthivegh.com        →  launched ✓
+  - freemmaacademygh.com   →  launched ✓
+  - raredevs.tech          →  studio site
 
-exploring:
-  - LLM systems for African healthcare
-  - Clinical data infrastructure
+open_source: coming soon
 
-open_to: backend collaboration · early-stage products
+open_to: backend collaboration · backend internships · early-stage products
 ```
 
 ---
