@@ -67,9 +67,12 @@ SMS-based communication platform for Freemma Academy.
 </td>
 <td width="50%" valign="top">
 
-<br/>
+### 💸 [zero-cost-saas](https://github.com/Anapey01/zero-cost-saas)
+`OPEN SOURCE`
 
-<sub><em>More in the workshop —<br/>this space grows as new things ship.</em></sub>
+A decision log on running a real production SaaS at $0/month — serverless sleep economics, free-tier orchestration, and edge-defensive patterns for low-budget, low-connectivity markets.
+
+`Django` `Next.js` `Vercel` `Neon` `Cloudinary`
 
 </td>
 </tr>
@@ -100,7 +103,7 @@ shipping:
   - freemmaacademygh.com   →  launched ✓
   - raredevs.tech          →  studio site
 
-open_source: coming soon
+open_source: github.com/Anapey01/zero-cost-saas — running a real SaaS at $0/month
 
 open_to: backend collaboration · backend internships · early-stage products
 ```
